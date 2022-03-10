@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github-search-react-app/static/css/main.ceb9dfde.chunk.css",
+    "main.js": "/github-search-react-app/static/js/main.c8d414df.chunk.js",
+    "main.js.map": "/github-search-react-app/static/js/main.c8d414df.chunk.js.map",
+    "runtime~main.js": "/github-search-react-app/static/js/runtime~main.c653bf15.js",
+    "runtime~main.js.map": "/github-search-react-app/static/js/runtime~main.c653bf15.js.map",
+    "static/js/2.5c0ccb22.chunk.js": "/github-search-react-app/static/js/2.5c0ccb22.chunk.js",
+    "static/js/2.5c0ccb22.chunk.js.map": "/github-search-react-app/static/js/2.5c0ccb22.chunk.js.map",
+    "index.html": "/github-search-react-app/index.html",
+    "precache-manifest.c2f47f3804d8d71f8e0603b45d2d1a82.js": "/github-search-react-app/precache-manifest.c2f47f3804d8d71f8e0603b45d2d1a82.js",
+    "service-worker.js": "/github-search-react-app/service-worker.js",
+    "static/css/main.ceb9dfde.chunk.css.map": "/github-search-react-app/static/css/main.ceb9dfde.chunk.css.map"
+  }
+}
